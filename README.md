@@ -1,6 +1,6 @@
 # cashfreedemo
 
-A new Flutter project.
+Cashfree Payment gateway integration in Flutter application 
 
 ## Getting Started
 
